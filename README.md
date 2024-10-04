@@ -1,0 +1,1 @@
+This project focuses on analyzing and visualizing sentiment patterns in social media data to gain insights into public opinion and attitudes towards specific topics or brands. By leveraging natural language processing techniques and data visualization tools, we can uncover valuable trends, identify key influencers, and track sentiment changes over time.
